@@ -8,6 +8,12 @@
 
 (喜欢麻烦动动你的小手给个start 谢谢)
 
+Suitable for beginners and novices, adopting djangorestframework interface development and template function development, mainly used for novices to practice and consolidate knowledge points, which leads to bloated code. The next version is refactored to the simple version, and the version is also upgraded to use django3 version, adopt redis cache, etc., websocket The next version such as chat is all developed by interface
+
+# website web project developed by django
+
+(I like the trouble to move your little hand to start, thank you)
+
 Python>=3.6
 
 Django>=2.0.12
